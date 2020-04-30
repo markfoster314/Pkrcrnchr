@@ -1,0 +1,5 @@
+include_directories(lib/)
+add_subdirectory(lib/peval)
+add_subdirectory(lib/penum)
+add_subdirectory(lib/util)
+add_subdirectory(programs/ps-eval)
